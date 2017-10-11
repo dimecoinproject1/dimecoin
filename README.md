@@ -53,10 +53,10 @@ Wallet at Github
 -------------
 
 
-[Updated Dimecoin-qt Download](https://github.com/dimecoinproject1/dimecoin1.7-qt/raw/master/Dimecoin-qt.zip)
+[Updated Dimecoin-qt Download](https://github.com/dimecoinproject1/dimecoin1.7-qt/blob/master/Dimecoin-qt.zip)
 
 
-**I HAVE JUST NOTICED THE TEXT FOR TRANSACTIONS IS SQUASHED TOGETHER. I WILL FIX THAT, SO PLEASE WAIT BEFORE DOWNLOADING (THIS MESSAGE WILL NO LONGER BE HERE)**
+**WALLET BACKGROUND IMAGE RESIZED**
 
 
 -----
