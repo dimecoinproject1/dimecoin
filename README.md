@@ -196,7 +196,7 @@ You can also visit [www.dimecoin.rocks](http://www.dimecoin.rocks/) where there 
 
 **Active nodes 11 October**
 
-You may notice a pattern between these nodes that are active at this moment, and future data reported by Chainz Explorer, in which case you can consider matching nodes as reliable to add to your dimecoin.conf. I have put them down as addnodes. 
+You may notice a pattern between these nodes that are active at this moment, and future data reported by [Chainz Explorer](https://chainz.cryptoid.info/dime/#!network), in which case you can consider matching nodes as reliable to add to your dimecoin.conf. I have put them down as addnodes. 
 
     addnode=45.50.102.111:11931
     addnode=177.85.98.203:11931
@@ -242,8 +242,8 @@ I left **setgenerate** in as an rpc call, as it possibly useful. However, this m
 To do
 --------------------
 
-1. Since I could not be bothered waiting for the blockchain to download, I was unable to test the backgrouund image with a transaction. It is likely that it will have to be adjusted so the transaction details do not touch the dimecoin logo.
-
+1. Change the background image to the dimecoin planets image on the splash.
+2. pdate the logo when the new one is available (as reported by [dimecoin.rocks](http://www.dimecoin.rocks/).
 
 
 -----
