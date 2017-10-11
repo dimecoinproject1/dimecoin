@@ -243,7 +243,7 @@ To do
 --------------------
 
 1. Change the background image to the dimecoin planets image on the splash.
-2. pdate the logo when the new one is available (as reported by [dimecoin.rocks](http://www.dimecoin.rocks/).
+2. Update the logo when the new one is available (as reported by [dimecoin.rocks](http://www.dimecoin.rocks/).
 
 
 -----
