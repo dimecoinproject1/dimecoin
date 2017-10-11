@@ -235,7 +235,7 @@ You may notice a pattern between these nodes that are active at this moment, and
 Setgenerate
 --------------------
 
-I left **setgenerate** in as an rpc call, as it possibly useful. However, this means the qt will always get flagged for bitcoin miner. It is a false positive, and everyone should know that by now.
+I left **setgenerate** in as an rpc call, as it is possibly useful. However, this means the qt will always get flagged for bitcoin miner. It is a false positive, and everyone should know that by now.
 
 -----
 
