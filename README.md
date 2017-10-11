@@ -186,7 +186,46 @@ You will find 70 or so nodes to use in your dimecoin.conf, as such:
 > 
 > addnode=111.92.57.239
 
+
 -----
+
+**Active nodes 11 October**
+
+You may notice a pattern between these nodes that are active at this moment, and future data reported by Chainz Explorer, in which case you can consider matching nodes as reliable to add to your dimecoin.conf. I have put them down as addnodes. 
+
+    addnode=45.50.102.111:11931
+    addnode=177.85.98.203:11931
+    addnode=107.189.41.253:11931
+    addnode=5.9.112.62:11931
+    addnode=91.121.217.70:11931
+    addnode=138.201.221.88:11931
+    addnode=93.115.28.30:38858
+    addnode=217.175.119.125:20653
+    addnode=184.164.129.202:62204
+    addnode=51.254.45.117:48096
+    addnode=71.3.103.242:61268
+    addnode=144.217.71.144:43612
+    addnode=35.197.25.60:56010
+    addnode=24.12.252.213:50220
+    addnode=151.80.166.130:54656
+    addnode=46.165.221.81:41380
+    addnode=145.87.231.247:50636
+    addnode=73.167.158.80:50783
+    addnode=194.67.217.176:46986
+    addnode=37.187.24.211:13551
+    addnode=[2001:0:9d38:90d7:89d:2347:6ea8:1808]:11931
+    addnode=59.98.152.17:21353
+    addnode=195.24.73.169:62954
+    addnode=93.41.3.173:24920
+    addnode=188.134.72.213:35725
+    addnode=46.216.6.148:11931 
+    addnode=5.189.179.102:55287
+    addnode=5.100.92.30:58658
+    addnode=5.189.179.102:55287
+
+
+-----
+
 
 Setgenerate
 --------------------
