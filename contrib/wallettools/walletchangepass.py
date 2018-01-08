@@ -4,7 +4,7 @@ old_password = raw_input("Enter old wallet passphrase: ")
 new_password = raw_input("Enter new wallet passphrase: ")
 confirm_password = raw_input("Enter new wallet passphrase again: ")
 if new_password == confirm_password:
-	access.walletpassphrasechange(pwd, pwd2)
+	access.walletpassphrasechange(old_password, new_password)
 	print "Password changed successfully"
 else:
 	print "Password doesn't match!!"
